@@ -1,0 +1,31 @@
+.property-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.property-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  width: calc(33.333% - 2rem);
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.property-item:hover {
+  transform: scale(1.05);
+}
+
+.property-item h2 {
+  margin-top: 0;
+}
+
+.property-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
