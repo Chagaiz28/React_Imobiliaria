@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Imobiliária React Project
 
 Este projeto é uma aplicação web de uma imobiliária desenvolvida utilizando React. O objetivo deste projeto é estudar e praticar o desenvolvimento de aplicações React, incluindo o uso de roteamento, componentes funcionais, hooks e estilização com CSS.
